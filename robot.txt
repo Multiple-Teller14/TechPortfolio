@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/Multiple-Teller14/TechPortfolio/ sitemab.xml
