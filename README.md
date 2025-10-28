@@ -10,4 +10,4 @@ Techportfolio and responsive Attributes
 
 ## Live Demo
 
-Visit :(https://github.com/Multiple-Teller14/TechPortfolio/)
+Visit :(https://github.io/Multiple-Teller14/TechPortfolio/)
