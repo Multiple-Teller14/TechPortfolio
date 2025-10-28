@@ -1,4 +1,4 @@
-# RJBS JET Club Website
+# My First Responsive Webpage
 
 Techportfolio and responsive Attributes 
 
@@ -9,4 +9,5 @@ Techportfolio and responsive Attributes
 - Coordinator profiles
 
 ## Live Demo
+
 Visit :(https://github.com/Multiple-Teller14/TechPortfolio/README.md)
